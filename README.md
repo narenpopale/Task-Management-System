@@ -18,28 +18,28 @@ Which simply manage your daily tasks.
 @  C Language Only.
 ## Commands
 
-![App Screenshot](file:///D:/Code/1.PNG)
+![App Screenshot](1.PNG)
 
 Help Command :
 
-![App Screenshot](file:///D:/Code/2.PNG)
+![App Screenshot](2.PNG)
 
 Add Command :
 
-![App Screenshot](file:///D:/Code/3.PNG)
+![App Screenshot](3.PNG)
 
 ls Command :
 
-![App Screenshot](file:///D:/Code/4.PNG)
+![App Screenshot](4.PNG)
 
 report Command :
 
-![App Screenshot](file:///D:/Code/5.PNG)
+![App Screenshot](5.PNG)
 
 done Command :
 
-![App Screenshot](file:///D:/Code/6.PNG)
+![App Screenshot](6.PNG)
 
 del Command :
 
-![App Screenshot](file:///D:/Code/10.PNG)
+![App Screenshot](10.PNG)
